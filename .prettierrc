@@ -1,0 +1,6 @@
+{
+    "tabWidth": 4,
+    "semicolons": true,
+    "singleQuote": true,
+    "endOfLine": "lf"
+}

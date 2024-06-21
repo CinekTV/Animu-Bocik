@@ -1,0 +1,1 @@
+Bot na serwer discord Gimpera. Głównie jego zastosowanie to zbieranie kart z anime postaciami, jak i wyszukiwanie informacji o danej serii M&A, aktualnie wychodzące tytuły, czy wysyłanie zdjęć lub gif'ów.

@@ -1,0 +1,11 @@
+
+kind: pipeline
+type: docker
+steps:
+- name: dockerize
+  image: plugins/docker
+  settings:
+    repo: docker-registry.kamilklecha.dev/devsquad/animu-bocik
+    dockerfile: ./Dockerfile
+    tags:
+      - arm

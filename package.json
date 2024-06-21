@@ -1,0 +1,21 @@
+{
+  "name": "animu_bocik",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cinek",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "jikan-node": "^1.2.1",
+    "jikanjs": "^0.7.0",
+    "jimp": "^0.16.1",
+    "mongoose": "^5.12.10",
+    "node-fetch": "^2.6.1"
+  }
+}
